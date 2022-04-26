@@ -1,0 +1,7 @@
+C:\Users\aspirev5\source\repos\ConsoleModularizacao\ConsoleModularizacao\bin\Debug\ConsoleModularizacao.exe.config
+C:\Users\aspirev5\source\repos\ConsoleModularizacao\ConsoleModularizacao\bin\Debug\ConsoleModularizacao.exe
+C:\Users\aspirev5\source\repos\ConsoleModularizacao\ConsoleModularizacao\bin\Debug\ConsoleModularizacao.pdb
+C:\Users\aspirev5\source\repos\ConsoleModularizacao\ConsoleModularizacao\obj\Debug\ConsoleModularizacao.csprojAssemblyReference.cache
+C:\Users\aspirev5\source\repos\ConsoleModularizacao\ConsoleModularizacao\obj\Debug\ConsoleModularizacao.csproj.CoreCompileInputs.cache
+C:\Users\aspirev5\source\repos\ConsoleModularizacao\ConsoleModularizacao\obj\Debug\ConsoleModularizacao.exe
+C:\Users\aspirev5\source\repos\ConsoleModularizacao\ConsoleModularizacao\obj\Debug\ConsoleModularizacao.pdb
